@@ -1,4 +1,4 @@
-<Atificial-Intelligence Regression Model>
-<Utilizing Python>
+#Atificial-Intelligence Regression Model
+#Utilizing Python
  
-<Created in Artificial Intelligence class> 
+#Created in Artificial Intelligence class 
